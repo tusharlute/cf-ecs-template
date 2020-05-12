@@ -3,7 +3,7 @@
     "Parameters": {
         "SubnetID": {
             "Type": "String"
-        } 
+        },
         "capabilities": {
             "Type": "String"
         } 
